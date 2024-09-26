@@ -1,6 +1,6 @@
 {
     "name": "Python 3 TensorFlow Dev Container",
     "image": "mcr.microsoft.com/devcontainers/python:3.11",  // Using Python 3.11 base image
-    "postCreateCommand": "pip install -r requirements.txt",  // Installing dependencies
+    "postCreateCommand": "pip install -r requirements.txt"  // Installing dependencies
   }
   
